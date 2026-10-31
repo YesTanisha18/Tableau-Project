@@ -1,1 +1,2 @@
-Preprocessed the data using SQL, loaded it into Tableau and built an interactive sales dashboard
+Preprocessed the data using SQL, loaded it into Tableau and built an interactive sales dashboard showcasing key KPIs.
+
